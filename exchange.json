@@ -1,0 +1,6 @@
+{
+  "main": "testconsole.raml",
+  "name": "testConsole",
+  "classifier": "raml",
+  "tags": []
+}
